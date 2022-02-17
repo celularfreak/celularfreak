@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/celularfreak" target="blank"><img src="https://img.shields.io/twitter/follow/celularfreak?logo=twitter&style=for-the-badge" alt="celularfreak" /></a> </p>
 
-- 🔭 I’m currently working on **Get_next_line**
+- 🔭 I’m currently working on **get_next_line**
 
 - 🌱 I’m currently learning **C, Java, VM's**
 
