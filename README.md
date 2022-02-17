@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm David</h1>
-<h3 align="center">Passionate about technology and student of 42 Barcelona.</h3>
+<h3 align="center">Student of 42 Barcelona and passionate about technology.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=celularfreak&label=Profile%20views&color=0e75b6&style=flat" alt="celularfreak" /> </p>
 
