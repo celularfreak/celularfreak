@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm David</h1>
 <h3 align="center">Student of 42 Barcelona and passionate about technology.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=celularfreak&label=Profile%20views&color=0e75b6&style=flat" alt="celularfreak" /> </p>
-
-<p align="left"> <a href="https://twitter.com/celularfreak" target="blank"><img src="https://img.shields.io/twitter/follow/celularfreak?logo=twitter&style=for-the-badge" alt="celularfreak" /></a> </p>
-
 - 🔭 I’m currently working on **get_next_line**
 
 - 🌱 I’m currently learning **C, Java, VM's**
