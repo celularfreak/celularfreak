@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm David</h1>
 <h3 align="center">Student of 42 Barcelona and passionate about technology.</h3>
 
-- 🔭 I’m currently working on **Minitalk**
+- 🔭 I’m currently working on **Push_swap**
 
 - 🌱 I’m currently learning **C, Java, VM's**
 
