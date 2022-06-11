@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Push_swap**
 
-- 🌱 I’m currently learning **C, Java, VM's**
+- 🌱 I’m currently learning **C, Java, JavaScript, VM's**
 
 - 📫 How to reach me **dnunez-m@student.42barcelona.com**
 
